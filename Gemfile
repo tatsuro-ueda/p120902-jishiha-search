@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
-gem 'sinatra', "1.3.2"
+gem 'sinatra', "2.2.0"
 gem 'haml'
